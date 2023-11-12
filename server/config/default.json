@@ -1,0 +1,7 @@
+{
+  "serverPort": 5000,
+  "dbUrl": "mongodb+srv://cloudMaster:Martin_Iden-715@cluster0.36j3irv.mongodb.net/?retryWrites=true&w=majority",
+  "secretKey": "Martin-Iden",
+  "identifikatorClucha": "YCAJEhw7byx8DXgp8ooQYYPTG",
+  "longSecretKey": "YCMNvl0MG0caRFULFj7g9Pt2IiYunuM_9Kt0OKdv"
+}
